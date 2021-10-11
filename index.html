@@ -4,6 +4,8 @@
     <title>Table</title>
 
     <link rel="stylesheet" href="./style.css" />
+
+    
   </head>
   <body>
     <h2>Example #1</h2>
@@ -93,14 +95,14 @@
 
 
 
-    <table border="1">
+    <table>
      
-      <tr>
-        <th><strong>Name</strong></th>
+      <tr id="n">
+        <th id="i1"><strong>Name</strong></th>
         <th><strong>Position</strong>
         </th>
         <th><strong>Office</strong></th>
-        <th><strong>Age</strong></th>
+        <th class="kto"><strong>Age</strong></th>
         <th><strong>Start date</strong></th>
         <th><strong>Salary</strong></th>
       </tr>
@@ -178,8 +180,8 @@
         <td>$106,450</td>
       </tr>
 
-      <tr>
-        <td>Cara Stevens</td>
+      <tr class="d">
+        <td class="t">Cara Stevens</td>
         <td>Sales Assistant</td>
         <td>New York</td>
         <td>46</td>
@@ -187,34 +189,62 @@
         <td>$145,600</td>
       </tr>
 
-      <tr>
-        <td>Cedric Kelly</td>
+      <tr id="m">
+        <td id="l">Cedric Kelly</td>
         <td>Senior Javascript Developer</td>
         <td>Edinburgh</td>
         <td>22</td>
         <td>2012/03/29</td>
         <td>$433,060</td>
+       
       
       </tr>
+
       
+      
+        
+    </table>
+    <hr>
+    <table>
       <tr>
-        <td><strong>Name<strong</td>
-        <td> <strong>Position</strong> </td>
-        <td> <strong>Office</strong> </td>
-        <td> <strong>Age</strong> </td>
-        <td> <strong>Start date</strong> </td>
-        <td> <strong>Salary</strong> </td>
+        <th class="buu"><strong>Name<strong></strong></th>
+        <th class="jkl"><strong >Position</strong> </th>
+        <th id="fds"><strong>Office</strong> </th>
+        <th class="aa"> <strong>Age</strong> </th>
+        <th id="fj"> <strong>Start date</strong> </th>
+        <th id="it"> <strong>Salary</strong> </th>
       </tr>
-
-
-
-      
-
-
-
-
 
     </table>
+
+
+    <h3>Example#3</h3>
+
+    <table>
+      <tr id="bn">
+        <td id="vm">ITEM</td>
+        <th colspan="3">QTY</th>
+        <th>PRICE</th>
+      </tr>
+
+      <tr>
+        <td> <strong>Don't Make Me Think </strong> by Steve Krug</td>
+        <td colspan="2">In Stock </td>
+        <td> 1</td>
+        <td>#30.02</td>
+      </tr>
+
+
+      <tr>
+        <td> <strong>A Project Guide to UX Deisign</strong> by Russ Unger & Carolyn Chandler
+         </td>
+        <td colspan="2">In Stock</td>
+        <td>2</td>
+        <td>$26.47*2</td>
+      </tr>
+    </table>
+
+ 
 
   </body>
 </html>
