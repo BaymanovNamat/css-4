@@ -91,6 +91,65 @@
 #b {
   background-color: rgb(255, 255, 255);
 }
-.p {
+#p {
   padding: 10px;
 }
+.d {
+  background-color: rgb(150, 182, 150);
+}
+.t {
+  padding: 10px;
+}
+#m {
+  background-color: rgb(255, 255, 255);
+}
+#l {
+  padding: 10px;
+}
+#n {
+  background-color: rgb(255, 255, 255);
+}
+#i1 {
+  padding: 10px;
+}
+.kto {
+  padding: 5px;
+}
+.buu {
+  text-align: center;
+  padding: 50px;
+  margin: 10px;
+  padding-top: 40px;
+}
+.jkl {
+  text-align: center;
+  padding: 60px;
+  padding-top: 50px;
+}
+#fds {
+  text-align: center;
+  padding: 30px;
+  padding-top: 26px;
+}
+.aa {
+  margin: 4px;
+  padding: 10px;
+  padding-top: 5px;
+}
+#fj {
+  padding: 10px;
+  padding-top: 8px;
+}
+#it {
+  text-align: center;
+  padding-top: 0.12px;
+}
+#bn {
+  
+  background-color: rgb(70, 85, 70);
+}
+#vm {
+  padding: 10px;
+
+}
+
