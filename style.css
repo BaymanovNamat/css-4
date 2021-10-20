@@ -117,36 +117,7 @@
 .kto {
   padding: 5px;
 }
-.buu {
-  
-  text-align: center;
-  padding: 50px;
-  margin: 10px;
-  padding-top: 40px;
-}
-.jkl {
-  text-align: center;
-  padding: 60px;
-  padding-top: 50px;
-}
-#fds {
-  text-align: center;
-  padding: 30px;
-  padding-top: 26px;
-}
-.aa {
-  margin: 4px;
-  padding: 10px;
-  padding-top: 5px;
-}
-#fj {
-  padding: 10px;
-  padding-top: 8px;
-}
-#it {
-  text-align: center;
-  padding-top: 0.12px;
-}
+
 #bn {
   
   background-color: rgb(70, 85, 70);
@@ -157,4 +128,9 @@
 }
 #nurrt {
   border-collapse: collapse;
+}
+
+.page {
+  padding: 20px;
+  padding-bottom: 20px;
 }
